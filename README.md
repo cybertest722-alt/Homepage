@@ -9,7 +9,7 @@ Here are some of the key highlights from my portfolio:
 ---
 
 ## 🏆 Certifications and Training: 
-##### Cybersecurity Certifications
+**Cybersecurity Certifications**
 - Certificate 1
 - Certificate 2
 - Certificate 3
