@@ -34,7 +34,7 @@ Here are some of the key highlights from my portfolio:
 ---
 
 ## Cybersecurity Projects:
-##### Here are a few things I’ve worked on
+**Here are a few things I’ve worked on**
 
 - **Project 1** – (Short description)  
 - **Project 2** – (Short description)  
