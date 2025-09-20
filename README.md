@@ -14,7 +14,13 @@ Here are some of the key highlights from my portfolio:
 - Certificate 2
 - Certificate 3
 
+---
 
+## Security Initiatives:
+
+- Initiative 1
+- Initiative 2
+- Initiative 3
 
 ---
 
@@ -27,16 +33,23 @@ Here are some of the key highlights from my portfolio:
 
 ---
 
-## Projects
-<span style="font-size:16px;">Here are a few things I’ve worked on:</span>
+## Cybersecurity Projects:
+##### Here are a few things I’ve worked on
 
-- 🔹 **Project 1** – (Short description)  
-- 🔹 **Project 2** – (Short description)  
-- 🔹 **Project 3** – (Short description)  
+- **Project 1** – (Short description)  
+- **Project 2** – (Short description)  
+- **Project 3** – (Short description)  
 
 ---
 
-## Contact Me
+## Internship Projects:
+- Internship 1
+- Internship 2
+- Internship 3
+
+---
+
+## Connect with Me
 - [Email](your-email@example.com)  
 - [LinkedIn](https://www.linkedin.com/in/your-username)
 - [Website](https://your-website.com)  
