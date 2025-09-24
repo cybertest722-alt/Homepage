@@ -50,8 +50,7 @@ Here are some of the key highlights from my portfolio:
 ---
 
 ## Connect with Me
-- [Email](your-email@example.com)  
-- [LinkedIn](https://www.linkedin.com/in/your-username)
+- [LinkedIn](https://www.linkedin.com/in/paul-okechukwu-ilo-957992386)
 - [Website](https://your-website.com)  
 
 ---
